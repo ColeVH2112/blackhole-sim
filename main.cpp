@@ -93,7 +93,7 @@ void save_screenshot(const point3& cam_origin) {
     const int width = 1280;
     const int height = 720;
     
-    std::ofstream img("blachole.ppm");
+    std::ofstream img("blackhole.ppm");
     img << "P3\n" << width << " " << height << "\n255\n";
 
     auto viewport_height = 2.0;
@@ -116,7 +116,7 @@ void save_screenshot(const point3& cam_origin) {
                 << static_cast<int>(255.99 * pixel_color.z()) << '\n';
         }
     }
-    std::cout << "\n[SUCCESS] Saved to 'blachole.ppm'.\n";
+    std::cout << "\n[SUCCESS] Saved to 'blackhole.ppm'.\n";
 }
 
 // --- MAIN LOOP ---
