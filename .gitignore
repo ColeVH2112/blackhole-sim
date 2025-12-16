@@ -1,0 +1,14 @@
+# Mac System Files
+.DS_Store
+
+# C++ Compiled Executables
+raytracer
+*.o
+*.out
+
+# Output Images (They get huge)
+*.ppm
+*.png
+
+#Emacs Backup Files
+*~
