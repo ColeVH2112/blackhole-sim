@@ -42,4 +42,7 @@ This engine uses **SDL2** for window management and pixel plotting. It compiles 
 **macOS (Homebrew):**
 ```bash
 brew install sdl2
+'''
 
+##Building the Project
+* Clone The repository:
