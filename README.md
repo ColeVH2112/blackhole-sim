@@ -1,6 +1,6 @@
 # Black Hole Ray Tracer (C++ / SDL2)
 
-![Black Hole Simulation Preview](simu_preview.png)
+![Black Hole Simulation Preview](sim_preview.png)
 
 > **A real-time General Relativity engine that simulates the warping of spacetime around a Schwarzschild black hole.**
 
